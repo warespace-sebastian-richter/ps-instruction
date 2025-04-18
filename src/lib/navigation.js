@@ -37,8 +37,8 @@ export const navigation = [
     title: 'Entwicklung',
     links: [
       { title: 'API-Dokumentation', href: 'https://warespace.de/docs' },
-      { title: 'Funktionswunsch', href: '/docs/feature-request' },
-      { title: 'Bug-Report', href: '/docs/bug-report' },
+      // { title: 'Funktionswunsch', href: '/docs/feature-request' },
+      // { title: 'Bug-Report', href: '/docs/bug-report' },
     ],
   },
 ]
