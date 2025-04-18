@@ -55,9 +55,9 @@ export function Hero() {
                 Verwalten Sie Ihre Lagerflächen mit Leichtigkeit und Effizienz. Wir zeigen Ihnen wie Sie mit Palletspace Ihren Umsatz steigern können.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Get started</Button>
-                <Button href="/" variant="secondary">
-                  View on GitHub
+                <Button href="https://staging.warespace.de/de/palletspace/lagerplatz-anbieter-werden"  target="_blank" >Lagerfläche vermarkten</Button>
+                <Button href="https://warespace.de/palletspace"  target="_blank" variant="secondary">
+                  Visit Palletspace
                 </Button>
               </div>
             </div>
