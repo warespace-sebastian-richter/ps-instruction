@@ -32,7 +32,7 @@ Bevor du startest, solltest du Folgendes bereithalten:
 - Informationen zu deinem Lagerstandort (Kapazitäten, Zugang, Ausstattung)
 - Aktuelle Fotos und ggf. Zertifikate (z. B. für Gefahrgut, Bio-Lagerung etc.)
 
----
+--- 
 
 ## Registrierung starten
 
