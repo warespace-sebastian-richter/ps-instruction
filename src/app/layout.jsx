@@ -23,10 +23,10 @@ const lexend = localFont({
 export const metadata = {
   title: {
     template: '%s - Docs',
-    default: 'CacheAdvance - Never miss the cache again.',
+    default: 'Palletspace - Docs',
   },
   description:
-    'Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.',
+    'Palletspace is a platform for managing and sharing your pallets. Create, publish, and manage your pallets with ease.',
 }
 
 export default function RootLayout({ children }) {
