@@ -22,8 +22,8 @@ const lexend = localFont({
 
 export const metadata = {
   title: {
-    template: '%s - Docs',
-    default: 'Palletspace - Docs',
+    template: '%s - Anleitung',
+    default: 'Palletspace - Anleitung',
   },
   description:
     'Palletspace is a platform for managing and sharing your pallets. Create, publish, and manage your pallets with ease.',

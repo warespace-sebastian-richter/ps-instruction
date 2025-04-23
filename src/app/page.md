@@ -44,7 +44,7 @@ Klicke auf **„Jetzt registrieren“** und folge dem Prozess Schritt für Schri
 Innerhalb weniger Minuten ist dein Unternehmensprofil angelegt und du kannst direkt mit dem Einstellen deiner Lagerflächen beginnen.
 
 {% callout title="Noch Fragen?" %}
-Unser Support-Team steht dir jederzeit zur Seite – ob beim Setup, beim Einstellen deiner Flächen oder bei Rückfragen zu Buchungen. [Hier geht’s zum Kontaktformular](/docs/support).
+Unser Support-Team steht dir jederzeit zur Seite – ob beim Setup, beim Einstellen deiner Flächen oder bei Rückfragen zu Buchungen. [Hier geht’s zum Kontaktformular](https://warespace.de/de/kontakt).
 {% /callout %}
 
 ---
