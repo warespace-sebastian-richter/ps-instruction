@@ -24,6 +24,9 @@ Aktiviere alle Lagerarten, die an deinem Standort verfügbar sind. Dies hilft In
 - **Steuerlager**  
   Lager, in dem verbrauchssteuerpflichtige Waren (z. B. Alkohol, Tabak, Energieerzeugnisse) unter Steueraussetzung gelagert werden dürfen
 
+- **Hochwertlager**
+- **Lager für hochwertige Waren**, die besondere Sicherheitsvorkehrungen erfordern
+
 > Hinweis: Wenn du über weitere Speziallagerarten verfügst, kannst du diese im Freitext innerhalb der Standortbeschreibung ergänzen.
 
 ---

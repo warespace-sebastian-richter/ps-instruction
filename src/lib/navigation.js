@@ -3,7 +3,7 @@ export const navigation = [
     title: 'Einführung',
     links: [
       { title: 'Willkommen', href: '/' },
-      { title: 'Registration', href: '/docs/registration' },
+      { title: 'Registrierung', href: '/docs/registration' },
       { title: 'Lager anlegen', href: '/docs/create-warehouse' },
       { title: 'Lager veröffentlichen', href: '/docs/publish-warehouse' },
     ],

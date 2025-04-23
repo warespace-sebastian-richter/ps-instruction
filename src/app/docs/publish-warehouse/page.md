@@ -2,7 +2,7 @@
 title: Kapazitäten & Preise
 ---
 
-Damit dein Lagerstandort über Palletspace gebucht werden kann, müssen Preise und buchbare Kapazitäten hinterlegt werden. Dieser Schritt erfolgt nach dem Anlegen des Standorts im Bereich **„Standort bearbeiten“**. {% .lead %}
+Damit dein Lagerstandort über Palletspace gebucht werden kann, müssen Preise und buchbare Kapazitäten hinterlegt werden. Dieser Schritt erfolgt nach dem Anlegen des Standorts im unteren Bereich der Seite. 
 
 ---
 

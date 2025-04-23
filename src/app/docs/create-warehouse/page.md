@@ -30,11 +30,6 @@ Im ersten Schritt gibst du grundlegende Informationen zum Lagerstandort ein:
 Diese Adresse wird im öffentlichen Standortprofil angezeigt und für direkte Kontaktanfragen von potenziellen Kunden verwendet.  
 **Hinweis:** Wird für Kontaktanfragen im Standortprofil verwendet – Mehrere E-Mail-Adressen durch Kommas getrennt eingeben.
 
-#### Kundenkontaktperson
-
-Wähle einen bereits angelegten Benutzer aus, der im Standortprofil angezeigt wird.  
-**Hinweis:** Die Person, die als Ansprechpartner im Standortprofil angezeigt wird. Wir empfehlen, ein Profilbild für diese Person hochzuladen.
-
 #### Interne Kontakt-E-Mails
 
 Diese Adresse(n) erhalten Benachrichtigungen zu:
@@ -44,6 +39,11 @@ Diese Adresse(n) erhalten Benachrichtigungen zu:
 - Stornierungen
 
 **Hinweis:** Wird für Palletspace-Anfragen verwendet – Aufträge, Stornierungen usw. – Mehrere E-Mail-Adressen durch Kommas getrennt eingeben.
+
+#### Kundenkontaktperson
+
+Wähle einen bereits angelegten Benutzer aus, der im Standortprofil angezeigt wird.  
+**Hinweis:** Die Person, die als Ansprechpartner im Standortprofil angezeigt wird. Wir empfehlen, ein Profilbild für diese Person hochzuladen.
 
 ### Marketingmaterial & Beschreibung
 
@@ -106,7 +106,6 @@ Wähle alle zutreffenden Zertifizierungen aus:
 - TAPA FSR
 - HCCP
 - IFS
-- Weitere (freitext)
 
 ---
 
@@ -119,7 +118,6 @@ Folgende spezielle Lagerformen können optional angegeben werden:
 - Sperrlager
 - Steuerlager
 - Hochwertlager
-- Gefahrgutlager
 
 ---
 

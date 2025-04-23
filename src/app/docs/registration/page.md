@@ -20,8 +20,8 @@ Dort kannst du dein Benutzerkonto anlegen und dein Unternehmen eintragen, um Lag
 
 Im ersten Schritt legst du ein Benutzerkonto an:
 
-- Vorname und Nachname
 - E-Mail-Adresse
+- Vorname und Nachname
 - Passwort
 
 Achte auf ein sicheres Passwort – dieses brauchst du später zum Login ins Admin-Dashboard.
@@ -34,9 +34,8 @@ Im Anschluss hinterlegst du Informationen zu deinem Unternehmen:
 
 - Firmenname
 - Adresse (Straße, PLZ, Ort)
-- Ansprechpartner für Anfragen
-- Telefonnummer
-- ggf. USt-ID oder Handelsregisternummer
+- Kontaktinformationen
+- USt-ID
 
 Diese Daten werden später auch im öffentlichen Steckbrief deines Lagerstandorts angezeigt.
 
